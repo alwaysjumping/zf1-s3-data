@@ -1,0 +1,2 @@
+phpstorm: https://www.swisstransfer.com/dl/01a12ff6-a871-7032-8eee-1bc84b25adeb
+mariadb: https://www.swisstransfer.com/dl/01a12ffa-7203-7238-b462-32c15be174a6
